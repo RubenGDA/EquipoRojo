@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url(https://fonts.gstatic.com/s/materialicons/v18/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2) format('woff2');
+}
+.justify{
+    text-align: justify;
+}
+
+.contendor-carrusel{
+    height: 250px;
+}
+
+.santa-container {
+    border-radius: 10px;
+    padding: 2vw;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.santa-brand-text {
+    font-family: 'Mountains of Christmas', cursive;
+}
+
+.left-button {
+    left: 3%;
+    right: auto;
+}
+.right-button {
+    left: auto;
+    right: 3%;
+}
+
+
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -moz-font-feature-settings: 'liga';
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.middle-indicator {
+    position: absolute;
+    top: 50%;
+}
+
+.middle-indicator-text {
+    font-size: 4.2rem;
+}
+
+a.middle-indicator-text {
+    color: black !important;
+}
+
+.content-indicator {
+    width: 64px;
+    height: 64px;
+    background: none;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;
+}
+
+.indicators {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 0 0 15px 15px;
+}
